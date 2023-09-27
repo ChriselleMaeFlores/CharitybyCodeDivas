@@ -53,7 +53,7 @@
         }
     </script>
 
-<script>
+   <script>
         function clearResult() {
             // Clear the content of the .result div
             document.querySelector('.result').innerHTML = '';

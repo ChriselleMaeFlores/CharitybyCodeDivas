@@ -49,7 +49,7 @@
 <body class="bg-gray-100 min-h-screen flex items-center justify-center">
     <div class="bg-white p-6 rounded-lg shadow-md max-w-md">
         <h1 class="text-2xl mb-4">PHP Program</h1>
-        <form method="POST">
+        <form method="POST" id="php-form">>
             <div class="mb-4">
                 <label class="block text-gray-700">Select Problem:</label>
                 <select name="problem" class="bg-white border border-gray-300 rounded px-4 py-2 w-full" required>
